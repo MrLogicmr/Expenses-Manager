@@ -1,3 +1,3 @@
 sex = "hbib"
 print(sex)
-ambatakam = 17
+ambatakam = 13
